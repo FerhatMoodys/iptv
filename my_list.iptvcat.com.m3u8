@@ -1,14 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",1TV GEO
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Undefined",24 Haber HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/584?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Undefined",24 Haber HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13899?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="Undefined",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",1TV GEO, https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Undefined",24 Haber HD, http://platin4k.eu:80/eagleiptv/SsFAljPDDi/584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Undefined",24 Haber HD+, http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13899?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV, https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="Undefined",24 TV, https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV HD
